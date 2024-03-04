@@ -1,4 +1,4 @@
-#React-Ciphers-Generator live demo [here]([url](https://samwel141.github.io/react-ciphers-generator/))
+#React-Ciphers-Generator live demo https://samwel141.github.io/react-ciphers-generator/
 
 
 # Getting Started with Create React App
