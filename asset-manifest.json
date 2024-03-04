@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-ciphers-generator/static/css/main.38bfa555.css",
+    "main.js": "/react-ciphers-generator/static/js/main.cd2eebd7.js",
+    "static/js/453.02c29438.chunk.js": "/react-ciphers-generator/static/js/453.02c29438.chunk.js",
+    "index.html": "/react-ciphers-generator/index.html",
+    "main.38bfa555.css.map": "/react-ciphers-generator/static/css/main.38bfa555.css.map",
+    "main.cd2eebd7.js.map": "/react-ciphers-generator/static/js/main.cd2eebd7.js.map",
+    "453.02c29438.chunk.js.map": "/react-ciphers-generator/static/js/453.02c29438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38bfa555.css",
+    "static/js/main.cd2eebd7.js"
+  ]
+}
